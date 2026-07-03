@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pymongo
+bcrypt
+pyjwt
+python-dotenv
+certifi
